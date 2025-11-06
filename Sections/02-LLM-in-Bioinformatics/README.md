@@ -1,3 +1,4 @@
-# 02 – LLM في Bioinformatics
+# 02 — LLM في Bioinformatics
 
-هذا السكشن مخصص للأبحاث التي تربط بين الـ LLMs وتطبيقاتها في مجال الـ Bioinformatics.
+ هذا السكشن مخصص للأبحاث التي تربط بين الـ LLMs وتطبيقاتها في مجال الـ Bioinformatics.
+
